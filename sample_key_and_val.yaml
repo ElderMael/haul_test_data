@@ -1,0 +1,13 @@
+string_key: 'string_value'
+number_key: 1
+multiline_key: |
+  This is a multiline string
+  It contains many lines
+  Such as this one here!
+nested_key:
+  nested_string: 'string'
+  nested_number: 99
+  nested_multiline_string: |
+    this is bad, this should not happen!
+    canary test!
+    oh noes!
